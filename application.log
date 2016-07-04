@@ -1,0 +1,18 @@
+2016-07-03 21:01:53,831 1644 [main] INFO  com.lendico.iban.Application - Starting Application on IN1W7L-505233 with PID 3664 (D:\workspace\ibanGenerator\target\classes started by shahg in D:\workspace\ibanGenerator)
+2016-07-03 21:01:53,833 1646 [main] INFO  com.lendico.iban.Application - No active profile set, falling back to default profiles: default
+2016-07-03 21:01:53,881 1694 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@59717824: startup date [Sun Jul 03 21:01:53 IST 2016]; root of context hierarchy
+2016-07-03 21:01:55,115 2928 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2016-07-03 21:01:55,141 2954 [main] INFO  com.lendico.iban.Application - Choose country to generate IBAN.
+2016-07-03 21:01:55,141 2954 [main] INFO  com.lendico.iban.Application - 1 : GERMANY
+2016-07-03 21:01:55,141 2954 [main] INFO  com.lendico.iban.Application - 2 : AUSTRIA
+2016-07-03 21:01:55,141 2954 [main] INFO  com.lendico.iban.Application - 3 : NETHERLANDS
+2016-07-03 21:01:55,141 2954 [main] INFO  com.lendico.iban.Application - 4 : EXIT
+2016-07-04 10:12:40,387 2908 [main] INFO  com.lendico.iban.IBANBuilder - nullDE48357026472042726881
+2016-07-04 10:12:40,610 3131 [main] INFO  com.lendico.iban.IBANBuilder - nullDE75863722625834355216
+2016-07-04 10:12:40,612 3133 [main] INFO  com.lendico.iban.IBANBuilder - nullAT654580518712632508
+2016-07-04 10:12:40,615 3136 [main] INFO  com.lendico.iban.IBANBuilder - nullAT504534008685622204
+2016-07-04 10:12:40,615 3136 [main] INFO  com.lendico.iban.IBANBuilder - nullAT557702118172538524
+2016-07-04 10:12:40,618 3139 [main] INFO  com.lendico.iban.IBANBuilder - nullDE70775543586042532740
+2016-07-04 10:12:40,624 3145 [main] INFO  com.lendico.iban.IBANBuilder - nullNL72UGRU4478488713
+2016-07-04 10:12:40,625 3146 [main] INFO  com.lendico.iban.IBANBuilder - nullNL93JBKC0814800126
+2016-07-04 10:12:40,625 3146 [main] INFO  com.lendico.iban.IBANBuilder - nullNL23FEYM3000137438
